@@ -10,6 +10,6 @@ Class activities referenced:
     07-Stu_Census_Pt1
     02-Ins_Formatter
 
-Online resources (other than general research): 
+# Online resources (other than general research): 
     https://github.com/DataTell/VBA-Challenge
     https://www.excelcampus.com/vba/find-last-row-column-cell/
